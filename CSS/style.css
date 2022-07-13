@@ -12,7 +12,7 @@ header {
     padding: 1%;
 }
 
-.logo img[src="Images/Logo.png"] {
+img[src="Images/Logo.png"] {
     height: 60px;
     width: auto;
 }
