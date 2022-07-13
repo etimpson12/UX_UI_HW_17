@@ -34,7 +34,7 @@ li {
 .herosection {
     height: 500px;
     padding: 25px;
-    background-image: url("Images/Background.png");
+    background-image: url("/Portfolio/UX_UI_HW_17/Images/Background.png");
     background-position: left 15% top 40%;
 }
 
@@ -59,7 +59,7 @@ img[src="/Portfolio/UX_UI_HW_17/Images/Portfolio img 1 (1) 1.png"] {
 }
 
 footer {
-    background-image: url("Images/Background.png");
+    background-image: url("/Portfolio/UX_UI_HW_17/Images/Background.png");
     background-position: left 0% top 65%;
     display: block;
     height: 350px;
